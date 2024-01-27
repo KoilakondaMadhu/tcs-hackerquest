@@ -1,0 +1,10 @@
+HackQuest
+Dashboard
+
+Koilakonda Madhu (DT20234670714)
+Packet Prowler - 400
+In the wake of a daring security incident, our fortified website, equipped with client certificate authentication, has fallen victim to a breach. The adversary, using cunning tactics, has stolen the flag after finding exposed keys through an insecure protocol. We need your analytical prowess to investigate this digital crime scene. Unravel the chain of events, analyze compromised keys, and identify the entry point. As you piece together the puzzle, showcase your expertise by advising on steps to fortify our digital fortress against future incursions. The challenge awaits - can you find the flag and secure our defenses? Let's dive in!
+Note: Passphrase is hockey
+HQ8{EnterHQ8KeyHere}
+GET FLAG
+DOWNLOAD ME
