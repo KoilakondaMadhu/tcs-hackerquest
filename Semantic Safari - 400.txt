@@ -1,0 +1,15 @@
+HackQuest
+Dashboard
+
+Koilakonda Madhu (DT20234670714)
+Semantic Safari - 400
+You've been tasked with doing a network vulnerability assessment. A list of over 5000 IP addresses has been provided in the form of a file. This list contains a mixture of valid IP addresses, incorrectly formatted IP addresses, IPv6 addresses, shorthand IPv6 notations, and even some containing evasive gibberish data.
+Your task is to identify and flag malicious IP addresses that fall into one of the two categories listed below:
+1. IPv4 addresses starting with "92.85." - These have been identified as IPs of threat actors.
+2. IPv6 addresses that match the pattern "2510:a5:*:*:*" - These have been identified as IPs of C2 servers.
+After the identification of these IP addresses, your next task is to capture the last character of each IP address in the exact order in which they occur in the file. Use these characters to construct the Flag. example format: HQ8{IP_characters}.
+Note: Must include the script developed to solve this quest in the report.
+HQ8{EnterHQ8KeyHere}
+
+GET FLAG
+DOWNLOAD ME
