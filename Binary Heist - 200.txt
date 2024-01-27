@@ -1,0 +1,9 @@
+HackQuest
+Dashboard
+
+Koilakonda Madhu (DT20234670714)
+Binary Heist - 200
+Achtung! A security-critical application has fallen victim to an unexpected zero day vulnerability, allowing users to bypass the flag validation process and access the coveted flag. Armed with your disassembly prowess and knowledge of Go disassembly, embark on a mission to dissect the compiled binary. Our resourceful analyst, R2-D2, has made significant progress and has managed to reach a certain point in the process. However, they require your assistance to overcome the final hurdle and claim the flag.
+HQ8{EnterHQ8KeyHere}
+GET FLAG
+DOWNLOAD ME
