@@ -1,0 +1,8 @@
+HackQuest
+Dashboard
+
+ICMP Espionage - 100
+In a world where time is currency, data is the most valuable asset. But someone has stolen it before time ran out? Embark on a mission against time to find out what was exfiltrated out of a secure network. Utilize your knowledge of ICMP protocols and the bypass techniques in place to retrieve the data before it's too late.
+HQ8{EnterHQ8KeyHere}
+GET FLAG
+DOWNLOAD ME
