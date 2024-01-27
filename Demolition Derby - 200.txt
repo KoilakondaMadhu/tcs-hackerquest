@@ -1,0 +1,8 @@
+HackQuest
+Dashboard
+
+Demolition Derby - 200
+Attention, Cyber Operative! Our critical system faces a dire situation - an unanticipated zero-day vulnerability threatens the flag's sanctity. Your task: delve into the intricate world of Go disassembly to unravel the binary's secrets. R2-D2, our adept analyst, has paved the way, but the last challenge awaits. Seize the opportunity, and may your skills unlock the elusive flag!
+HQ8{EnterHQ8KeyHere}
+GET FLAG
+DOWNLOAD ME
